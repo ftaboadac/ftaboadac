@@ -12,7 +12,7 @@ Currently working with:
 
 Most of my professional experience has been around integrations, async workflows, and scalable backend services
 
-Outside of work, I like building small tools and experimenting with AI-related products and developer workflows
+Outside of work, I like building small tools and experimenting with AI-related products
 
 ## Links
 
