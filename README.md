@@ -16,4 +16,4 @@ Outside of work, I like building small tools and experimenting with AI-related p
 
 ## Links
 
-- LinkedIn: https://linkedin.com/in/facundotaboada
+- [LinkedIn](https://www.linkedin.com/in/facundo-taboada/)
