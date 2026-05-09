@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Facundo 
 
-<!--
-**ftaboadac/ftaboadac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer from Argentina focused on backend systems, integrations, and cloud infrastructure
 
-Here are some ideas to get you started:
+Currently working with:
+- Python / Django
+- Node.js
+- PostgreSQL
+- Redis & Celery
+- Docker & Kubernetes
+- AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my professional experience has been around integrations, async workflows, and scalable backend services
+
+Outside of work, I like building small tools and experimenting with AI-related products and developer workflows
+
+## Links
+
+- LinkedIn: https://linkedin.com/in/facundotaboada
