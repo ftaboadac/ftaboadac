@@ -1,6 +1,6 @@
 # Hi, I'm Facundo 
 
-Software engineer from Argentina focused on backend systems, integrations, and cloud infrastructure
+Software engineer focused on backend systems, integrations, and cloud infrastructure
 
 Most of my professional experience has been around integrations, async workflows, and scalable backend services
 
